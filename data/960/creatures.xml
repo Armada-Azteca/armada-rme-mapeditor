@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <creatures>
+  <creature name="Diablo Chupa Anos" type="monster" looktype="923" />
   <creature name="Jon Snow" type="npc" looktype="644" lookaddon="3" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" mount="502" />
   <creature name="Enano Pitudo" type="npc" looktype="71" lookaddon="3" lookhead="0" lookbody="0" looklegs="0" lookfeet="0"/>
   <creature name="Barbaro de Regil" type="monster" looktype="535" />
